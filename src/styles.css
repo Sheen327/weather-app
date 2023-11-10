@@ -1,0 +1,38 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+p,
+div {
+  color: #5a6275;
+}
+
+h1,
+h2 {
+  font-size: 25px;
+}
+
+.extra-info {
+  font-size: 13px;
+  position: absolute;
+  left: 180px;
+  top: 138px;
+}
+
+.col {
+  text-align: center;
+}
+.dates {
+  font-size: 12px;
+}
+
+.days {
+  font-size: 18px;
+}
+
+.emojis {
+  font-size: 55px;
+}
